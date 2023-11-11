@@ -1,0 +1,5 @@
+/node_modules
+/build
+# system files
+.DS_Store
+Thumbs.db

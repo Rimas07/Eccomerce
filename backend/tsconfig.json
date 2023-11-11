@@ -1,0 +1,12 @@
+{
+
+    "compilerOptions": {
+        "target": "ES2015",
+        "outDir": "./build",
+        "strict": true,
+        "module": "CommonJS",
+        "jsx": "react-jsx", 
+        "esModuleInterop": true,
+        "moduleResolution": "node"
+    }
+}
